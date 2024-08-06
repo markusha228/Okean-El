@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Окуан Ельзи</title>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <a href="index.html">Головна</a>
+                <a href="trip">Тури</a>
+            </nav>
+        </header>
+        <main>
+            <h1>Океан Ельзи</h1>
+            <img src="https://afishamira.com/wp-content/uploads/2024/02/okean-elzy-e1707239221210.jpeg">
+            <div>
+            <p>
+                <b>
+                13 Вересня Женева
+                <br>Arena Genève
+                <br>2024 Help for Ukraine tour
+            </p>
+            <p>
+                14 Вересня Цюріх
+                <br>Halle 622
+                <br>2024 Help for Ukraine tour
+            </p>
+            <p>
+                16 Вересня Париж
+                <br>Zénith Paris - La Villette
+                <br>2024 Help for Ukraine tour
+            </p>
+            <p>
+                18 Вересня Амстердам
+                <br>AFAS Live
+                <br>2024 Help for Ukraine tour
+            </b>
+            </p>
+        </div>
+        </main>
+        <footer>
+            <p class="nothing"></p>
+        </footer>
+    </body>
+</html>
