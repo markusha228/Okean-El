@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+}
+
+main{
+    text-align: center;
+}
+
+
+body {
+    font-family: sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+header nav{
+    text-align: center;
+    padding: 40px;
+}
+
+header{
+    background-color: rgba(16, 136, 141, 1);
+}
+
+nav a {
+    margin-left: 220px;
+    margin-right: 220px;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(243, 147, 147);
+    padding: 5px;
+    border: solid black 4px;
+    border-radius: 15px;
+    margin: 30px 420px ;
+}
+
+img{
+    border: solid black 4px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+footer{
+    background-color: rgba(16, 136, 141, 1);
+    margin-top: 120px;
+}
+
+.nothing{
+    border: none;
+    background-color: rgba(16, 136, 141, 1);
+    margin: 0;
+    padding: 40px;
+}
+
+table{
+    margin-left: 168px;
+}
+
+.table-img{
+   margin-top: 0px;
+   margin-left: 690px;
+}
+
+.table-list{
+    font-size: 24px;
+}
+
+ul li{
+    margin-bottom: 50px;
+}
+
+div{
+    background-color: rgb(243, 147, 147);
+    padding: 15px;
+    margin: 30px 190px;
+    border: solid black 4px;
+    border-radius: 15px;
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
